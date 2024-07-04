@@ -10,6 +10,7 @@ The script first sets the API rate limit parameters and exponential backoff para
 Requires: `gam` command line tool for Google Workspace.
 
 https://github.com/GAM-team/GAM
+
 https://github.com/taers232c/GAMADV-XTD3
 
 
@@ -22,6 +23,7 @@ To install `ratelimit.sh`, clone this repository or download the script directly
 
 ```bash
 chmod +x ratelimit.sh
+```
 
 ## Usage
 
@@ -32,6 +34,7 @@ Update run_command() block with the code you would like to run
   log "Running command: gam all users print forward todrive"
   gam all users print forward todrive
 }
+```
 
 ## Run the script
 
