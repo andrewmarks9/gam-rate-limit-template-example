@@ -37,7 +37,7 @@ Update run_command() block with the code you would like to run
 
 ```bash
 ./ratelimit.sh
-
+```
 
 ## Contributing
 Contributions to ratelimit.sh are welcome! Please submit pull requests or open issues to propose changes or report bugs.
